@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moner050/Starbucks/static/css/main.e6c13ad2.css",
-    "main.js": "/moner050/Starbucks/static/js/main.b098c47e.js",
-    "static/js/787.d83f0b62.chunk.js": "/moner050/Starbucks/static/js/787.d83f0b62.chunk.js",
-    "index.html": "/moner050/Starbucks/index.html",
-    "main.e6c13ad2.css.map": "/moner050/Starbucks/static/css/main.e6c13ad2.css.map",
-    "main.b098c47e.js.map": "/moner050/Starbucks/static/js/main.b098c47e.js.map",
-    "787.d83f0b62.chunk.js.map": "/moner050/Starbucks/static/js/787.d83f0b62.chunk.js.map"
+    "main.css": "/Starbucks/static/css/main.e6c13ad2.css",
+    "main.js": "/Starbucks/static/js/main.e48d99c0.js",
+    "static/js/787.d83f0b62.chunk.js": "/Starbucks/static/js/787.d83f0b62.chunk.js",
+    "index.html": "/Starbucks/index.html",
+    "main.e6c13ad2.css.map": "/Starbucks/static/css/main.e6c13ad2.css.map",
+    "main.e48d99c0.js.map": "/Starbucks/static/js/main.e48d99c0.js.map",
+    "787.d83f0b62.chunk.js.map": "/Starbucks/static/js/787.d83f0b62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b098c47e.js"
+    "static/js/main.e48d99c0.js"
   ]
 }
